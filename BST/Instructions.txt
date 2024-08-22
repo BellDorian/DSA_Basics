@@ -1,0 +1,5 @@
+* To run the program, use the following command:
+	make valgrind
+
+* Enter your desired lower and upper bounds when prompted. 
+	- If your upper bound is not greater than your lower bound, the program will give you 3 chances to fix it before it terminates without doing the bounded traversal.

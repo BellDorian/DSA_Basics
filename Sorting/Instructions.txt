@@ -1,0 +1,15 @@
+Environment: *NIX (Tesla)
+
+Language: C++
+
+Instructions for Running:
+	Type the following command: make valgrind
+	(Make run should also work)
+
+Instructions for Graphs:
+	Open the Excel spreadsheet to see the plotted values
+	StepsCounted is a png of the graph of steps
+	SwapsCounted is a png of the graph of swaps
+
+*Note that the random number generator is in Main.cpp and it is hard programmed with the seed 777.
+ Feel free to change that seed in Main.cpp to test different datasets!

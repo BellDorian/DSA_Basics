@@ -1,0 +1,9 @@
+Environment: *NIX (Tesla)
+
+Language: C++
+
+Instructions for Running:
+	Type the following command: make valgrind
+
+(Make run should also work)
+Note that you must have multilist_input.txt downloaded to run the program, because this is a required input file for the node data!

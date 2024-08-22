@@ -1,0 +1,12 @@
+This document contains some info about the project.
+
+Language: C++
+
+Running Environment: Linux CLI (Tesla VM)
+
+
+Compiling Instruction:
+===========================================================================================
+Use the makefile I have written to run my project. You have to options to use the makefile:
+    [A] make run
+    [B] make valgrind
